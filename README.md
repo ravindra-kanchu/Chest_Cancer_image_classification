@@ -36,5 +36,5 @@ The dataset used for this project is the IQ-OTH/NCCD Lung Cancer Dataset, availa
 The classification model is based on a convolutional neural network (CNN) architecture, specifically designed for image classification tasks. The model is trained on a labeled dataset of lung cancer images.
 By applying pretrained models the model performance is incerase
 ## Documentation
-[A Transfer Learning Architecture Based on a Support Vector Machine for Histopathology Image Classification](https://1drv.ms/w/c/3bdf9b643cbf3ade/EbvsQcmMMPxGpZIYNC6LG9wB3Nj60cu3DnSffLzbFV8NLw?e=dNfLBW)
+[A Transfer Learning Architecture Based on a Support Vector Machine for Histopathology Image Classification](https://1drv.ms/w/c/3bdf9b643cbf3ade/EbvsQcmMMPxGpZIYNC6LG9wB3Nj60cu3DnSffLzbFV8NLw?e=h0Qc9E)
 

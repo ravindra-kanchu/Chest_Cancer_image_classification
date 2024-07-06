@@ -15,8 +15,6 @@ This project aims to classify lung cancer images into three categories: benign, 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
